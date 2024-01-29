@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+Python scripts for charting and filtering Clarivate's Incites data
 =======================================
 
 This GitHub template includes fictional Python library
